@@ -18,8 +18,8 @@ interface Profile01Props {
 }
 
 const defaultProfile = {
-  name: "Eugene An",
-  role: "Prompt Engineer",
+  name: "Victor Chukwuma",
+  role: "Frontend Engineer",
   avatar: "https://ferf1mheo22r9ira.public.blob.vercel-storage.com/avatar-02-albo9B0tWOSLXCVZh9rX9KFxXIVWMr.png",
   subscription: "Free Trial",
 } satisfies Required<Profile01Props>

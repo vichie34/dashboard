@@ -5,9 +5,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "KokonutUI Dashboard",
-  description: "A modern dashboard with theme switching",
-    generator: 'v0.dev'
+  title: "Admin Dashboard",
+  description: "A modern dashboard with theme switching, Admin features built on nextJs, tailwindcss and typescript",
 }
 
 export default function RootLayout({
